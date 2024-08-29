@@ -1,0 +1,10 @@
+.vscode
+*.pyc
+*.xlsx
+datasets
+model
+*.class
+manually_created_files
+__pycache__
+
+
