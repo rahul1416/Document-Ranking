@@ -12,14 +12,18 @@ Then activate the environment using:
 ```
 source activate graftnet
 ```
+or directly download the env file
+
+```
+
+```
 
 ### Downloads
 Pre-processed datasets:
-1. [WikiMovies](http://curtis.ml.cmu.edu/datasets/graftnet/data_wikimovie.zip)
-2. [WebQuestionsSP](http://curtis.ml.cmu.edu/datasets/graftnet/data_webqsp.zip)
+1. MsMarco Dataset :- (https://drive.google.com/file/d/1qGdb2pp6cWcWTG6UdGcf-3fzx-gykdnl/view?usp=drive_link)
 
 Pre-trained models:
-1. [WikiMovies](http://curtis.ml.cmu.edu/datasets/graftnet/model_wikimovie.zip)
+1. 10k Weights:- (https://drive.google.com/drive/folders/1iEo3-mr7AfovK5dSavFuv0E1KZbL1Mkt?usp=drive_link)
 2. [WebQuestionsSP](http://curtis.ml.cmu.edu/datasets/graftnet/model_webqsp.zip)
 
 To rerun the preprocessing pipeline on a different dataset, see the [preprocessing](https://github.com/OceanskySun/GraftNet/tree/master/preprocessing) folder.
