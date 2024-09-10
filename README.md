@@ -1,6 +1,5 @@
 # GraftNet
-
-This is the implementation of GraftNet described in EMNLP 2018 paper [Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text](https://arxiv.org/abs/1809.00782).
+This is the GraftNet forked from haitian-sun ```https://github.com/haitian-sun/GraftNet```  and implementation of GraftNet described in EMNLP 2018 paper [Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text](https://arxiv.org/abs/1809.00782).
 
 ### Prerequisites
 The recommended way to install the required packages is using Conda and the provided `environment.yml` file. See [this](https://conda.io/docs/user-guide/install/index.html) page on how to install conda. Create the environment by running the following command:
